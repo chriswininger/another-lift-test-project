@@ -4,6 +4,8 @@ public class App {
   public static void main(String [] args) {
     System.out.println("Hello world");
 
+    var fooBar= not java
+
     Derived d = new Derived();
     Base b = (Base) d;
 
